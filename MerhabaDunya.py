@@ -17,3 +17,7 @@ print(mesajada,adayas)
 mesajbelkis = "Anneannemin yaşı"
 belkisyas = 81
 print(mesajbelkis,belkisyas)
+
+mesajmustafaabi = "Mustafa abinin yaşi"
+mustafayas = 52
+print(mesajmustafaabi, mustafayas)
