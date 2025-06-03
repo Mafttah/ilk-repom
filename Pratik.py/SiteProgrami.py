@@ -1,0 +1,3 @@
+mesaj = input("Gezi Rotaları")
+mesaj = input("Rota 1")
+print = input("Sabah İstanbul havalımanı’ ndan THY ile 7.15 uçağına binip Selanik’ e gideceğiz. Selanik havalimanına 8.35’ te ineceğiz. Toparlanma bavul alımı vs 9.30’ da havalimanından çıkıp, Aristotles Meydanı’ na ( Sosyal ve kültürel hayatın merkezi olarak kabul ediliyor. Hatta zaman zaman burada bazı önemli siyasi olaylara da sahne oluyor. Sahil kesiminde yer alan meydan, kentin en canlı noktaları arasında. Dolayısıyla çevresindeki mekânlara oturup deniz manzarası eşliğinde bir şeyler yiyip içebilirsiniz.") 
