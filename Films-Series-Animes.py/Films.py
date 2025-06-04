@@ -1,6 +1,8 @@
-mesaj = input("Films Genres")
+mesaj1 = input("Films Genres")
 
-mesaj = input("1. Science-Fiction films")
+mesaj2 = input("1. Science-Fiction films")
+
+print(mesaj1, mesaj2)
 
 mesaj = input("Uzaydan Gelen Firtina")
 mesaj = input("Lucy")
