@@ -4,5 +4,5 @@ print = input("Sabah İstanbul havalımanı’ ndan THY ile 7.15 uçağına bini
 
 print = input("Beyaz Kule")
 
-mesaj = "Opining Hours = 10.00-18.30 "
-mesaj = "Entry Fee = 10 euro "
+print = input("Opining Hours = 10.00-18.30 ")
+print = input("Entry Fee = 10 euro ")
