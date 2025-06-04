@@ -9,7 +9,7 @@ print = input("Gelecege Donus")
 print = input("Adam Project")
 mesaj = input("Ask ve Canavarlar")
 mesaj = input("Terminator")
-print = ("Mad Max")
-print = ("Morbius")
+print = input("Mad Max")
+print = input("Morbius")
 
 
