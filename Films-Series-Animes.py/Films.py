@@ -1,7 +1,15 @@
 mesaj = input("Films Genres")
 
-mesaj1 = input("1. Historical films")
+mesaj = input("1. Science-Fiction films")
 
-print = ("Films")
+mesaj = input("Uzaydan Gelen Firtina" \
+"Lucy" \
+"Ready Player One" \
+"Gelecege Donus" \
+"Adam Project" \
+"Ask ve Canavarlar" \
+"Terminator" \
+"Mad Max" \
+"Morbius")
 
 
