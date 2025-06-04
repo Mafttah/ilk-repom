@@ -45,6 +45,6 @@ print("Author  : Bora Saglam")
 print("Date    : 2025-06-03")
 print("Copyright (c) 2025 Bora Saglam")
 print("Bu programda degiskenler ve veri tipleri anlatilmistir.")
-print("Program sonlandiriliyor...")
+# Burayı sildim.
 print("")
 # Program sonlandiriliyor...
