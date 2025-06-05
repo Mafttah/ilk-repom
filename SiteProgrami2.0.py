@@ -1,8 +1,8 @@
-print = "Gezi Rotaları"
-print = "Rota 1"
+print = input("Gezi Rotaları")
+print = input("Rota 1")
 
-print = "Tourist spots", "Opining Hours, ve Entry Fees"  
+print = input("Tourist spots", "Opining Hours, ve Entry Fees")  
 
-print = "1. Beyaz Kule" 
-print = "Opining Hours: 10.00-18.30"
-print = "Entry Fee = 8€"
+print = input("1. Beyaz Kule") 
+print = input("Opining Hours: 10.00-18.30")
+print = input("Entry Fee = 8€")
