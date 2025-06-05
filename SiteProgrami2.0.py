@@ -1,5 +1,5 @@
-mesaj = input("Gezi Rotaları")
-mesaj = input("Rota 1")
+print = input("Gezi Rotaları")
+print = input("Rota 1")
 
 print = "Tourist spots", "Opining Hours, ve Entry Fees"  
 
