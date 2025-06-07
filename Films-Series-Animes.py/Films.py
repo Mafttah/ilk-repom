@@ -1,16 +1,18 @@
-mesaj1 = input("Films Genres")
+print("Films Genres")
+print("1. Science-Fiction films")
+print("Uzaydan Gelen Firtina")
+print("Lucy")
+print("Ready Player One")
+print("Gelecege Donus")
+print("Adam Project")
+print("Ask ve Canavarlar")
+print("Terminator")
+print("Mad Max")
+print("Morbius")
+print("Tenet")
 
-mesaj2 = input("1. Science-Fiction films")
 
-mesaj = input("Uzaydan Gelen Firtina")
-mesaj = input("Lucy")
-mesaj = input("Ready Player One")
-print = input("Gelecege Donus")
-print = input("Adam Project")
-mesaj = input("Ask ve Canavarlar")
-mesaj = input("Terminator")
-print = input("Mad Max")
-print = input("Morbius")
-print = input("Tenet")
 
+#input kullanim ornekleri:
+#adi_soyadi = input(print("Adininizi soyadinizi girin: "))
 
