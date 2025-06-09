@@ -3,6 +3,11 @@ from googletrans import Translator
 # Translator nesnesi oluştur
 translator = Translator()
 
-ceviri = translator.translate("Bonjour")
-print("Algılanan dil:", ceviri.src)
-print("Çeviri (EN):", ceviri.text)
+# Örnek metin
+metin = "Merhaba dünya"
+
+# İngilizce'ye çevir
+ceviri = translator.translate(metin, dest='en')
+
+print("Orijinal:", metin)
+print("Çeviri:", ceviri.text)
