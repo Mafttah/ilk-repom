@@ -1,3 +1,3 @@
 from colorama import Fore
 
-print(Fore.Blue, + 'Good')
+print(Fore.BLUE, + 'Text in Green')
