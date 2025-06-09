@@ -1,3 +1,4 @@
 from googletrans import Translator
-translate = ("Hello", 'dest' == 'fr')
-print = "translate"
+translator = Translator()
+result = translator.translate("Hello", dest="fr")
+print(result.text)
