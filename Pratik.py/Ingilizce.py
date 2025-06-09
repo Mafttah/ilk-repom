@@ -1,5 +1,4 @@
 from googletrans import Translator
-mesaj = "translator" 
-mesaj = "dest"
+print = "translator" 
 "translator" == "Hello","Good morning","Good Afternoon","Good Evening", "dest" == 'fr'
 print("mesaj")
