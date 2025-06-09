@@ -1,3 +1,3 @@
 from googletrans import Translator
-translate =("Hello", "dest" == 'fr')
-print= ("translate")
+translation =("Hello", "dest" == 'fr')
+print= ("translation")
