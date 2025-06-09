@@ -1,4 +1,5 @@
 from googletrans import Translator
 translator=Translator
-translation=translator.translate("Hello","Good morning","Good Afternoon","Good Evening", "dest" == 'fr')
+"exchange language=en to language=fr"
+translation=translator.translate("Hello", "dest" == 'fr')
 print= ("translation")
