@@ -1,13 +1,3 @@
-from googletrans import Translator
+from colorama import Fore
 
-# Translator nesnesi oluştur
-translator = Translator()
-
-# Örnek metin
-metin = "Merhaba dünya"
-
-# İngilizce'ye çevir
-ceviri = translator.translate(metin, dest='en')
-
-print("Orijinal:", metin)
-print("Çeviri:", ceviri.text)
+print(Fore.Red, + 'Hello')
