@@ -1,4 +1,3 @@
 from googletrans import Translator
-"exchange language=en to language=fr"
-translation=("Hello", "dest" == 'fr')
-print= ("translation")
+translate =("Hello", "dest" == 'fr')
+print= ("translate")
