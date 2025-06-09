@@ -1,5 +1,2 @@
-print("Hello")
-print("Hi")
-print("Good morning")
-print("Good Afternoon")
-print("Good Evening")
+import googletrans
+googletrans.LANGUAGES
