@@ -1,4 +1,4 @@
 from googletrans import Translator
-print = "translation" 
-"translation" == "Hello","Good morning","Good Afternoon","Good Evening", "dest" == 'fr'
-print("translation")
+translator=Translator
+translation=translator.translate("Hello","Good morning","Good Afternoon","Good Evening", "dest" == 'fr')
+print= ("translation")
