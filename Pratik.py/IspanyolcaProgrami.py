@@ -12,3 +12,16 @@ print("El_dinero = the money")
 print("Las_personas = the people")
 
 
+mesaj = "contestar: "
+contestar = input(mesaj)	
+mesaj = "escapar: "
+escapar = input(mesaj)
+mesaj = "cortar: "
+cortar = input(mesaj)
+mesaj = "entrar: "
+entrar = input(mesaj)
+mesaj5 = "hablar: "
+hablar = input(mesaj5)
+mesaj6 = "prestar: " 
+prestar = input(mesaj6)
+
